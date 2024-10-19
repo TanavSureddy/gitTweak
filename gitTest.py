@@ -6,3 +6,5 @@ if answer.lower() == "cranium shaker":
     print("i agree")
 else:
     print("the cranium shaker tho...")
+
+print("alr we good imma merge now")
