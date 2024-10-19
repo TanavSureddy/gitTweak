@@ -1,6 +1,8 @@
 
 print("git test. zooweemama!\n")
 
-print("Loded diper is the best band")
-
-print("cranium shaker is crazy")
+answer = input("What is the scariest ride? ")
+if answer.lower() == "cranium shaker":
+    print("i agree")
+else:
+    print("the cranium shaker tho...")
